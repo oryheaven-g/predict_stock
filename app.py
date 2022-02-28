@@ -1,9 +1,9 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 import datetime as datetime
-import datetime
-import numpy as np
 import pandas_datareader
+import datetime
 import plotly.graph_objects as go
 import sklearn
 import sklearn.linear_model
